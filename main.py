@@ -1,7 +1,6 @@
 # Skapad av Sör'n 06/05-22
 
 import pycurl
-from bs4 import BeautifulSoup
 from io import BytesIO
 import csv
 from datetime import datetime
